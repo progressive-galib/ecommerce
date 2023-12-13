@@ -1,6 +1,6 @@
 # ecommerce
 
-A simple ruby on rails ecommerce site using solidus gem and solidus stripe integration. solidus is based on spree ecommerce engine
+A simple ruby on rails ecommerce site using solidus gem and solidus paypal integration (stripe integration is on the stripe branch use `git checkout stripe`). solidus is based on spree ecommerce engine
 
 screenshot:
 
